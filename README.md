@@ -1,39 +1,57 @@
 # 📇 Lista de Contatos
 
-![Preview do Projeto](https://i.postimg.cc/8CgWfgR1/lista-contatos-sem-borda.png)
-
-Projeto desenvolvido para praticar a criação de **interfaces modernas**, utilizando **cards responsivos**, imagens de perfil e ações de edição/exclusão.  
-A ideia é simular uma lista de contatos estilizada, com visual limpo e organização clara, ideal para treinar **HTML**, **CSS**, **JavaScript** e componentes visuais.
+<img src="https://i.postimg.cc/8CgWfgR1/lista-contatos-sem-borda.png" alt="Preview do projeto Lista de Contatos" width="300px">
 
 ---
 
-## 🔗 Acesse o projeto  
-👉 [Clique aqui para visualizar a versão online](https://nataliapastre-dev.github.io/lista-de-contatos/)
+## 🔗 Acesse o Projeto
+
+👉 [**Clique aqui para abrir a versão online**](https://nataliapastre-dev.github.io/lista-de-contatos/)
 
 ---
 
-## ✨ Recursos do projeto
+## 📋 Descrição
 
-- ✔ Layout em **cards responsivos**
-- ✔ Imagem de capa em cada card
-- ✔ Foto de perfil em destaque (circular)
-- ✔ Nome completo e e-mail organizados
-- ✔ Botões de ação: **excluir** e **editar**
-- ✔ Uso de **sombras**, **bordas suaves**, **tipografia moderna**
-- ✔ Estruturação limpa e semântica
-- ✔ Visual elegante inspirado em interfaces reais
-- ✔ Código simples, claro e fácil de reaproveitar
+A página exibe uma **lista de contatos fictícios**, com imagens, nomes e e-mails apresentados em um layout limpo e organizado.  
+
+As informações dos contatos foram geradas automaticamente através da API **randomuser.me**, garantindo diversidade, aleatoriedade e realismo aos dados exibidos.
+
+O objetivo deste projeto foi treinar:
+
+- Construção de layout com HTML  
+- Manipulação de elementos na página  
+- Estilização com CSS  
+- Composição visual usando cards e imagens  
+
+É um excelente exercício para praticar **Front-End**, responsividade e uso de APIs.
 
 ---
 
 ## 🛠 Tecnologias utilizadas
 
-- **HTML5** – estrutura da página  
-- **CSS3** – layout responsivo, tipografia, sombras e estilização dos cards  
-- **JavaScript** – ações dos botões (opcional, dependendo da versão que você criar)  
-- **Ícones** – podem ser Font Awesome, Bootstrap Icons ou SVG
+- **HTML5**
+- **CSS3** (cards, grid, responsividade)
+- **JavaScript**
+- **API randomuser.me** (para gerar os contatos automaticamente)
 
 ---
 
-## 📦 Estrutura do projeto
+## ✨ Funcionalidades
+
+- ✔ Lista de contatos simulados  
+- ✔ Fotos reais geradas automaticamente  
+- ✔ Cards com nome + e-mail  
+- ✔ Layout responsivo  
+- ✔ Ícones de ação (editar e excluir)  
+- ✔ Estilo moderno e organizado  
+- ✔ Dados dinâmicos usando API  
+
+---
+
+## 📦 Como executar o projeto
+
+1️⃣ Clone este repositório:
+
+```bash
+git clone https://github.com/nataliapastre-dev/lista-de-contatos
 
