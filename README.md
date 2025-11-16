@@ -1,57 +1,66 @@
-# 📇 Lista de Contatos
+# 📸 Preview
 
-<img src="https://i.postimg.cc/8CgWfgR1/lista-contatos-sem-borda.png" alt="Preview do projeto Lista de Contatos" width="300px">
+<a href="https://nataliapastre-dev.github.io/lista-de-contatos/" target="_blank">
+  <img src="https://i.postimg.cc/8CgWfgR1/lista-contatos-sem-borda.png" 
+       alt="Preview do Projeto Lista de Contatos" width="350px">
+</a>
 
 ---
 
-## 🔗 Acesse o Projeto
+# 📇 Lista de Contatos
 
-👉 [**Clique aqui para abrir a versão online**](https://nataliapastre-dev.github.io/lista-de-contatos/)
+A **Lista de Contatos** é um projeto desenvolvido com **HTML**, **CSS** e **JavaScript**, exibindo cartões de contatos com foto, nome e e-mail.
+
+Os dados dos usuários foram gerados automaticamente pela API  
+👉 **[randomuser.me](https://randomuser.me/)**  
+garantindo maior realismo, variedade e experiência prática com dados externos.
 
 ---
 
 ## 📋 Descrição
 
-A página exibe uma **lista de contatos fictícios**, com imagens, nomes e e-mails apresentados em um layout limpo e organizado.  
+A página exibe uma lista de contatos fictícios construídos em cards organizados, cada um contendo:
 
-As informações dos contatos foram geradas automaticamente através da API **randomuser.me**, garantindo diversidade, aleatoriedade e realismo aos dados exibidos.
+- Foto do usuário  
+- Nome completo  
+- E-mail  
+- Layout responsivo  
+- Ações visuais (ícones de edição e exclusão, caso implementados)
 
-O objetivo deste projeto foi treinar:
-
-- Construção de layout com HTML  
-- Manipulação de elementos na página  
-- Estilização com CSS  
-- Composição visual usando cards e imagens  
-
-É um excelente exercício para praticar **Front-End**, responsividade e uso de APIs.
+O projeto tem como foco **praticar criação de layouts modernos**, **manipulação de elementos HTML**, organização visual e estilização com CSS.
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## 🔗 Acesse o Projeto
 
-- **HTML5**
-- **CSS3** (cards, grid, responsividade)
-- **JavaScript**
-- **API randomuser.me** (para gerar os contatos automaticamente)
+👉 **[Clique aqui para abrir a versão online](https://nataliapastre-dev.github.io/lista-de-contatos/)**
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5**  
+- **CSS3 (Flexbox + Grid + Responsividade)**  
+- **JavaScript ES6+**  
+- **API Random User:**  
+  👉 https://randomuser.me/
 
 ---
 
 ## ✨ Funcionalidades
 
-- ✔ Lista de contatos simulados  
-- ✔ Fotos reais geradas automaticamente  
-- ✔ Cards com nome + e-mail  
-- ✔ Layout responsivo  
-- ✔ Ícones de ação (editar e excluir)  
-- ✔ Estilo moderno e organizado  
-- ✔ Dados dinâmicos usando API  
+- ✔ Cards com foto, nome e e-mail  
+- ✔ Imagens de perfil reais trazidas via API  
+- ✔ Layout moderno, limpo e organizado  
+- ✔ Totalmente responsivo (desktop, tablet e mobile)  
+- ✔ Cores equilibradas e sombras suaves  
+- ✔ Possibilidade de expandir (edição, exclusão, adicionar contato)
 
 ---
 
-## 📦 Como executar o projeto
+## 📦 Como Executar
 
-1️⃣ Clone este repositório:
+1️⃣ Clone o repositório:
 
 ```bash
 git clone https://github.com/nataliapastre-dev/lista-de-contatos
-
